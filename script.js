@@ -2,7 +2,6 @@
  para receber a tarefa, e armazene na memória 
  utilizando o LocalStorage.
 
-Dica: Utilize Arrays e Json*/
 
 
 /*Document.querySelector()
